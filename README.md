@@ -4,7 +4,7 @@
 
 🔧 I work with CAMEL AI, Streamlit, and a range of open-source LLMs like LLaMA, Mistral, etc., to solve real-world problems.
 
-📚 Currently learning Data Structures & Algorithms in C++ alongside full-stack projects.
+📚 Currently learning Data Structures & Algorithms in C++.
 
 ---
 
