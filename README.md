@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Hi, I'm Tushar Singh
 
-<!--
-**tushar80rt/tushar80rt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Second-year BCA student passionate about Generative AI, Large Language Models (LLMs), and building intelligent agent systems.
 
-Here are some ideas to get you started:
+🔧 I work with CAMEL AI, Streamlit, and a range of open-source LLMs like LLaMA, Mistral, etc., to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Currently learning Data Structures & Algorithms in C++ alongside full-stack projects.
+
+---
+
+### 🌐 Connect with me:
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/tushar-singh-1ba975296)
+- 🐦 [Twitter / X](https://x.com/_tusharrathore)
+- 📺 [YouTube](https://youtube.com/@codeewithtushar?si=3jyul07C2xmQTDSJ)
+- ✍️ [Dev.to](https://dev.to/_tusharrathore)
+
+---
