@@ -2,7 +2,9 @@
 <h3 align="center">🚀 AI Developer | 🧠 CAMEL‑AI / LLaMA Enthusiast | 📹 YouTuber</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tushar80rt&label=Profile%20views&color=blueviolet" alt="tushar80rt profile views"/>
+  <a href="https://x.com/_tusharrathore?t=MIg89_fZNhI3_CNnw7OtZQ&s=09" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20me%20on%20Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Follow Badge"/>
+  </a>
 </p>
 
 ---
@@ -31,15 +33,15 @@
   - **CAMEL‑AI** agent framework  
   - **Streamlit** frontend + PDF chat UI  
   - Auto‑audio output for reading reports  
-- Live demo info & source linked on Dev.to 5
-- Read more: *MedAi Pro* article on Dev.to 6
+- Read more: *MedAi Pro* article on Dev.to (link coming soon)
 
 ---
 
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)  
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/@yourchannel)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/tushar80rt)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/tushar80rt)  
+[![Twitter](https://img.shields.io/badge/Twitter-@_tusharrathore-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/_tusharrathore)
 
 ---
 
