@@ -2,7 +2,7 @@
 <h3 align="center">🚀 AI Developer | 🧠 LLM Explorer | 📹 Content Creator</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tushar80rt&label=Profile%20views&color=0e75b6&style=flat" alt="tushar80rt" />
+  <img src="https://x.com/_tusharrathore?t=1rozm2SepcYneDvTyRMoIg&s=09" alt="Twitter(x)" />
 </p>
 
 ---
