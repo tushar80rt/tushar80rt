@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://yourcdnlink.com/github-banner.png" alt="Tushar Singh GitHub Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Tushar Singh</h1>
 <h3 align="center">🚀 AI Developer | 🧠 CAMEL‑AI / MTT LLM Explorer | 📹 YouTuber</h3>
 
