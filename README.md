@@ -13,7 +13,7 @@
 
 Hi, I’m **Tushar Singh** — a second-year BCA student with a strong passion for **AI, Machine Learning, and software development**.
 
-I work on **Generative AI** and intelligent agent systems using tools like **CAMEL AI**, **LangChain**, and **Streamlit**, while exploring advanced open-source **LLMs** (currently focused on **MTT**) using APIs like **Groq**, **Mistral**, **Together AI**, and **OpenAI**.
+I work on **Generative AI** and intelligent agent systems using tools like **CAMEL AI**, **LangChain**, and **Streamlit**, while exploring advanced open-source **LLMs** (currently focused on **MTT LLM**) using APIs like **Groq**, **Mistral**, **Together AI**, and **OpenAI**.
 
 Alongside this, I’m strengthening my core skills with **Data Structures and Algorithms in C++**, helping me write **optimized and scalable code**.
 
@@ -28,18 +28,6 @@ I'm driven by **curiosity**, **continuous learning**, and the desire to build **
 ![CAMEL‑AI](https://img.shields.io/badge/CAMEL--AI-blue?style=for-the-badge)
 ![MTT LLM](https://img.shields.io/badge/LLM-MTT-black?style=for-the-badge)
 ![LLM APIs](https://img.shields.io/badge/LLM%20APIs-Groq%20%7C%20Mistral%20%7C%20OpenAI%20%7C%20TogetherAI-purple?style=for-the-badge)
-
----
-
-### 📌 Featured Project: MedAi
-
-**AI Medical Report Analyzer** powered by:
-
-- 🧠 **MTT LLM** (via Groq/Together/OpenAI APIs)  
-- 🤖 **CAMEL‑AI agent framework**  
-- 🧾 PDF → chat interface using **Streamlit**  
-- 🔊 Auto-audio narration of reports  
-- ✍️ *Dev.to article coming soon*
 
 ---
 
