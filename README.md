@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://yourcdnlink.com/github-banner.png" alt="Tushar Singh GitHub Banner" />
-</p>
+
+![github baneer](https://github.com/user-attachments/assets/ad20ceae-dde3-4ed0-a810-3bf44cfce9d4)
+
 
 <h1 align="center">Hi 👋, I'm Tushar Singh</h1>
 <h3 align="center">🚀 AI Developer | 🧠 CAMEL‑AI / MTT LLM Explorer | 📹 YouTuber</h3>
@@ -47,9 +47,5 @@ I'm driven by **curiosity**, **continuous learning**, and the desire to build **
 
 ---
 
-### 📊 GitHub Stats & Streak
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tushar80rt&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tushar80rt&theme=radical" width="48%">
-</p>
