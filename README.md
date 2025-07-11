@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-Hi, I’m **Tushar Singh** — a second-year BCA student with a strong passion for **AI, Machine Learning**.
+Hi, I’m **Tushar Singh** — a third-year BCA student with a strong passion for **AI, Machine Learning**.
 
 I work on **Generative AI** and intelligent agent systems using tools like **CAMEL AI**, **LangChain**, and **Streamlit**, while exploring advanced open-source **LLMs** (currently focused on **MTT LLM**) using APIs like **Groq**, **Mistral**, **Together AI**, and **OpenAI**.
 
