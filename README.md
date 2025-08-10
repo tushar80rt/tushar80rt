@@ -20,15 +20,7 @@ I'm driven by **curiosity**, **continuous learning**, and the desire to build **
 
 ---
 
-### 🚀 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge)
-![CAMEL‑AI](https://img.shields.io/badge/CAMEL--AI-blue?style=for-the-badge)
-![MTT LLM](https://img.shields.io/badge/LLM-MTT-black?style=for-the-badge)
-![LLM APIs](https://img.shields.io/badge/LLM%20APIs-Groq%20%7C%20Mistral%20%7C%20OpenAI%20%7C%20TogetherAI-purple?style=for-the-badge)
-
----
 
 ### 📫 Connect With Me
 
